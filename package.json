@@ -1,0 +1,23 @@
+{
+  "name": "sqlIntro",
+  "version": "1.0.0",
+  "description": "first sql query ex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-marcantel/sqlIntro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-marcantel/sqlIntro/issues"
+  },
+  "homepage": "https://github.com/ben-marcantel/sqlIntro#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.13"
+  }
+}
